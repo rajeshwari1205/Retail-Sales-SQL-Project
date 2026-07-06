@@ -106,6 +106,23 @@ The project demonstrates beginner, intermediate, and advanced SQL concepts by so
 - Business Analysis
 
 ---
+
+## SQL Concepts Used
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- COUNT()
+- SUM()
+- AVG()
+- MAX()
+- MIN()
+- CASE
+- Date Functions
+
+--- 
+
 ## Author
 
 Rajeshwari P
